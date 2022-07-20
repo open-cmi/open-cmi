@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @open-cmi
-- I'm a full-stack developer, and now my skill stack is c/go/shell/javascript/react.
-- And I’m currently learning swift and c#. 
-- I'm developing a cross-platform app. 
+- noone
+- to be someone
